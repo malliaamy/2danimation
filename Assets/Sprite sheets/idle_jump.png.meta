@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 941e3da6cb9619743a43ec1596750ed9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e5b8d5b70c08a4ba1605ffea325bd5
+      internalID: -1964466694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53916b752d4f68a469bcc621eec5c312
+      internalID: -1543258061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_10
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69213d8133baea04b9e7f562dda28afd
+      internalID: 430727799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_11
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c5e206f6ec2f4c87238e1c0c34913
+      internalID: -948605557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbdb5fcf33a8654aa97448a73063004
+      internalID: -754582951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c7bbd643ce1547a1d27404ebeb40e
+      internalID: 1706365142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_14
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878ebced868912343b982fd001a324b9
+      internalID: -1969669961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_15
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3c8da02fdf0484bbe954b310f536b7
+      internalID: -63398293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_16
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06592578af4688447b90a399cd61049d
+      internalID: 1925429757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_17
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2017
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7feb0125e4e25247aec4cc36b098072
+      internalID: -1324915402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc7722f00505e4eb449cc1f2122dd2
+      internalID: -658580754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4e267fd302574aa10380cedd62555
+      internalID: 1685331671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e968d579f8cc59468fb070ae2d44ec4
+      internalID: 550067528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_20
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9f91408ca37348974e18f40c3a60a
+      internalID: -538318865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_21
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a6ff29683eb7408971153923178c0
+      internalID: -1982814090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_22
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c623a826f00242bcba70e37320d8e
+      internalID: 315755488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_23
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1324
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671f0e4d20c66c4485a15c1255d24b3
+      internalID: 1209252824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9103e4867abd38e44ad041063387dabd
+      internalID: -867253515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4352713df143374ab8b4cac674a3fed
+      internalID: -485088634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_26
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41243bb27a07d72469e588ad2fb2f33a
+      internalID: -1553806481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_27
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c52473ceb6444abac0948d2e2da0d
+      internalID: -1766289588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_28
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb46aba7a0dc949be6e38d8ab355ae
+      internalID: -1400751909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_29
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 631
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfe9e2cc363ad479bd35d7fc9d0825
+      internalID: 1111214898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec531616d33ccd48bb00bacf7bcbefc
+      internalID: -852886099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_4
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e6b3879f384a4e8fcbf7574bc6f7b
+      internalID: -193248819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3403
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c572fa3bf33b814e951be22fbcc0566
+      internalID: -150223755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2406a5c2e12049ba41f92416c98d3
+      internalID: 336209600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4c2d7317518d4f877285b0fdb2a70
+      internalID: 1549277368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_8
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047e2d9a8505d1478be34850bfaca49
+      internalID: 150698229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_jump_9
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2710
+        width: 647
+        height: 693
+      alignment: 9
+      pivot: {x: 0.59, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ccb32f2529f24690a0f6dee49a573
+      internalID: 1804495680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      idle_jump_0: -1964466694
+      idle_jump_1: -1543258061
+      idle_jump_10: 430727799
+      idle_jump_11: -948605557
+      idle_jump_12: -754582951
+      idle_jump_13: 1706365142
+      idle_jump_14: -1969669961
+      idle_jump_15: -63398293
+      idle_jump_16: 1925429757
+      idle_jump_17: -1324915402
+      idle_jump_18: -658580754
+      idle_jump_19: 1685331671
+      idle_jump_2: 550067528
+      idle_jump_20: -538318865
+      idle_jump_21: -1982814090
+      idle_jump_22: 315755488
+      idle_jump_23: 1209252824
+      idle_jump_24: -867253515
+      idle_jump_25: -485088634
+      idle_jump_26: -1553806481
+      idle_jump_27: -1766289588
+      idle_jump_28: -1400751909
+      idle_jump_29: 1111214898
+      idle_jump_3: -852886099
+      idle_jump_4: -193248819
+      idle_jump_5: -150223755
+      idle_jump_6: 336209600
+      idle_jump_7: 1549277368
+      idle_jump_8: 150698229
+      idle_jump_9: 1804495680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 0fca3b4dfa768e0438f6c639fd9e13bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sidejump_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1d4f2d18503f4daf76442af753148
+      internalID: 1334250180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fdf9f087af7b42b42dbeb5d6c7b01
+      internalID: 637567041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a466dc8b52daf4bb83abe8dd297a1c
+      internalID: 234940109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cf81796403ba4891de811ad4f78e9
+      internalID: -29199831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20836b7eb7d50147976131d66f77463
+      internalID: 1298518794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 3311
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae56648e0e2674bb0553a9fdf766e5
+      internalID: 1975004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ed28bb3800284eaaa1a8449ce64bc
+      internalID: -427119626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b2d68eaba6134589b97bfaf6cab23
+      internalID: -827625287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa1ac6d4428c446a95ed34dc4ec9c4
+      internalID: 1283148528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f08771ccc22a4b866495fc563af04
+      internalID: 448451689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f450ecce8eb784394b8dce7258df02
+      internalID: 344945345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2526
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517de30e67ee5944bb72613e45201b0c
+      internalID: 1282761940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0275afab5f9fd458f15df472854ee2
+      internalID: -1444330078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eecc5bbad5f78c49bb5175b4bc5fb9c
+      internalID: 2035355633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b81c0c89b55e4889024322fc47dfb
+      internalID: -1542054463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22cce890540ee41950d41459bd51b4
+      internalID: -1926789428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec0e1955459ae4287fb126f1e31e63
+      internalID: 544239901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1741
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4b581a4079044c9ec1487b27d9215
+      internalID: -14826001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c61e25f21a48942b3c6425e618db28
+      internalID: -1030644451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4b429ec1d78149a52c04979c099e4
+      internalID: -514929709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6bf26ec634204a9633ea9f2ccbe2e
+      internalID: -357141830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf716666335e9b4da31e7aea979a2e2
+      internalID: -404331803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501d521673567a438fdee1ec6d265c9
+      internalID: 1023495592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 956
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6b69e5fff2cd4c95ee444da196116
+      internalID: -1003784242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39533ff3660c2e2438c2b3c1fdd9278e
+      internalID: 2028463129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78cd39ebaad734bb26a7e83441b454
+      internalID: 799211659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb29ab1996ce60940a51bb47fe761aa4
+      internalID: 528625378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2972fa6a743e9245b1bdfaea7b15631
+      internalID: 1074335168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a64d7e8ea189548bc6964c891bd76f
+      internalID: 1142816378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidejump_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 171
+        width: 606
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98db008dcc290a4baad0e98d415c65d
+      internalID: -258608107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sidejump_spritesheet_0: 1334250180
+      sidejump_spritesheet_1: 637567041
+      sidejump_spritesheet_10: 344945345
+      sidejump_spritesheet_11: 1282761940
+      sidejump_spritesheet_12: -1444330078
+      sidejump_spritesheet_13: 2035355633
+      sidejump_spritesheet_14: -1542054463
+      sidejump_spritesheet_15: -1926789428
+      sidejump_spritesheet_16: 544239901
+      sidejump_spritesheet_17: -14826001
+      sidejump_spritesheet_18: -1030644451
+      sidejump_spritesheet_19: -514929709
+      sidejump_spritesheet_2: 234940109
+      sidejump_spritesheet_20: -357141830
+      sidejump_spritesheet_21: -404331803
+      sidejump_spritesheet_22: 1023495592
+      sidejump_spritesheet_23: -1003784242
+      sidejump_spritesheet_24: 2028463129
+      sidejump_spritesheet_25: 799211659
+      sidejump_spritesheet_26: 528625378
+      sidejump_spritesheet_27: 1074335168
+      sidejump_spritesheet_28: 1142816378
+      sidejump_spritesheet_29: -258608107
+      sidejump_spritesheet_3: -29199831
+      sidejump_spritesheet_4: 1298518794
+      sidejump_spritesheet_5: 1975004759
+      sidejump_spritesheet_6: -427119626
+      sidejump_spritesheet_7: -827625287
+      sidejump_spritesheet_8: 1283148528
+      sidejump_spritesheet_9: 448451689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
